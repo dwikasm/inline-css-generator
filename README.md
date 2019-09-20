@@ -4,5 +4,5 @@
 
 buat file index.html terus jalanin:
 ```
-node generate.js
+nodemon generate.js
 ```
