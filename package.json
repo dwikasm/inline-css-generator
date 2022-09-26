@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "inline-css": "^2.4.2"
+    "inline-css": "^4.0.1"
   }
 }
